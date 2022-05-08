@@ -1,5 +1,5 @@
 # Projet_Mastermind
-# Groupe 6:
+# TD 1 MIASHS / Groupe 6:
 # Samia SAID HASSANI
 # Patrick LAWSON
 
