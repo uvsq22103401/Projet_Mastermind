@@ -2,6 +2,7 @@
 # TD 1 MIASHS / Groupe 6:
 # Samia SAID HASSANI
 # Patrick LAWSON
+# https://github.com/uvsq22103401/Projet_Mastermind.git
 
 Le premier joueur défini la combinaison en cliquant sur les boutons de couleurs, il peut supprimer le dernier element
 choisi en cliquant sur le bouton rouge ou la valider en cliquant sur le bouton valider en vert.
