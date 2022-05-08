@@ -1,7 +1,7 @@
 # Projet_Mastermind
-Groupe 6:
-Samia SAID HASSANI
-Patrick LAWSON
+# Groupe 6:
+# Samia SAID HASSANI
+# Patrick LAWSON
 Groupe 6:
 Samia SAID HASSANI
 Patrick LAWSON
