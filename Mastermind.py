@@ -10,7 +10,7 @@ for i in range(1,11):
 historique.pack()
 
 propo=Canvas(fenetre, width=300, height=100, bg='orange')
-propo.create_text((130,10), text='Votre proposition', fill="white")
+propo.create_text((130,10), text='Mode 2 Joueurs', fill="black")
 propo.pack()
 
 #ce que l'utilisateur doit deviner
